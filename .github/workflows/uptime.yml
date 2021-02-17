@@ -30,4 +30,6 @@ jobs:
           command: "update"
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
+          SITE01: ${{ secrets.SITE01 }}
+          SITE02: ${{ secrets.SITE02 }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
