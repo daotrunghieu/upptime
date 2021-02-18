@@ -10,6 +10,10 @@ status-website:
   introTitle:
   introMessage:
 
+var:
+  - &site01 $SITE01
+  - &site02 $SITE02
+
 sites:
   - name: HOME
     url: $SITE01
@@ -18,7 +22,7 @@ sites:
     maxResponseTime: 2000
 
   - name: grafana
-    url: grafana.$SITE01
+    url: !join [grafana, *site01]
     assignees:
       - daotrunghieu
     maxResponseTime: 2000
