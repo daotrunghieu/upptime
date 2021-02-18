@@ -22,31 +22,31 @@ sites:
     maxResponseTime: 2000
 
   - name: grafana
-    url: !join [grafana, *site01]
+    url: *site01
     assignees:
       - daotrunghieu
     maxResponseTime: 2000
 
   - name: kibana
-    url: kibana.$SITE01
+    url: kibana.daotrunghieu.com
     assignees:
       - daotrunghieu
     maxResponseTime: 2000
 
   - name: jenkins
-    url: ci.$SITE01
+    url: ci.daotrunghieu.com
     assignees:
       - daotrunghieu
     maxResponseTime: 2000
 
   - name: wiki
-    url: wiki.$SITE01
+    url: wiki.daotrunghieu.com
     assignees:
       - daotrunghieu
     maxResponseTime: 2000
 
   - name: blog
-    url: blog.$SITE01
+    url: blog.daotrunghieu.com
     assignees:
       - daotrunghieu
     maxResponseTime: 2000
