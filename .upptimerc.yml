@@ -3,8 +3,8 @@ repo: upptime
 user-agent: github; upptime
 
 status-website:
-  # cname: status.daotrunghieu.com
-  baseUrl: /upptime
+  cname: status.daotrunghieu.com
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle:
