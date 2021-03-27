@@ -1,7 +1,7 @@
 url: kibana.daotrunghieu.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-03-27T07:53:42.097Z
+status: up
+code: 200
+responseTime: 1799
+lastUpdated: 2021-03-27T08:30:40.484Z
 startTime: Wed Feb 17 2021 16:43:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
