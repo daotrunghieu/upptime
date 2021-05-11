@@ -1,7 +1,7 @@
 url: kibana.daotrunghieu.com
-status: degraded
+status: up
 code: 200
-responseTime: 2407
-lastUpdated: 2021-05-11T19:49:20.926Z
+responseTime: 1538
+lastUpdated: 2021-05-11T19:55:46.546Z
 startTime: Wed Feb 17 2021 16:43:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
