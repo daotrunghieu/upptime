@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home",
     "status": "down",
-    "uptime": "78.51%",
+    "uptime": "78.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.51%",
+    "uptimeYear": "78.28%",
     "time": 723,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2022-02-17": 24,
+      "2022-02-18": 30,
+      "2022-02-17": 1440,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
@@ -108,18 +109,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "grafana",
     "status": "down",
-    "uptime": "78.30%",
+    "uptime": "78.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.30%",
+    "uptimeYear": "78.21%",
     "time": 212,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2022-02-17": 24,
+      "2022-02-18": 30,
+      "2022-02-17": 1440,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
@@ -202,8 +204,7 @@
       "2021-10-29": 786,
       "2021-10-27": 92,
       "2021-08-29": 20,
-      "2021-06-07": 105,
-      "2021-02-18": 375
+      "2021-06-07": 105
     }
   },
   {
@@ -212,18 +213,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "kibana",
     "status": "down",
-    "uptime": "40.33%",
+    "uptime": "40.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.33%",
+    "uptimeYear": "40.31%",
     "time": 1959,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1959,
     "dailyMinutesDown": {
-      "2022-02-17": 24,
+      "2022-02-18": 30,
+      "2022-02-17": 1440,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
@@ -458,8 +460,7 @@
       "2021-03-01": 16,
       "2021-02-24": 25,
       "2021-02-23": 73,
-      "2021-02-22": 29,
-      "2021-02-18": 375
+      "2021-02-22": 29
     }
   },
   {
@@ -468,18 +469,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "69.34%",
+    "uptime": "69.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.34%",
+    "uptimeYear": "69.27%",
     "time": 1591,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1591,
     "dailyMinutesDown": {
-      "2022-02-17": 24,
+      "2022-02-18": 30,
+      "2022-02-17": 1440,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
@@ -595,8 +597,7 @@
       "2021-09-29": 20,
       "2021-08-30": 17,
       "2021-08-29": 21,
-      "2021-06-07": 105,
-      "2021-02-18": 376
+      "2021-06-07": 105
     }
   },
   {
@@ -605,18 +606,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wiki",
     "status": "down",
-    "uptime": "60.36%",
+    "uptime": "60.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.36%",
+    "uptimeYear": "60.31%",
     "time": 1168,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1168,
     "dailyMinutesDown": {
-      "2022-02-17": 24,
+      "2022-02-18": 30,
+      "2022-02-17": 1440,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
@@ -764,8 +766,7 @@
       "2021-08-29": 308,
       "2021-06-07": 105,
       "2021-02-28": 925,
-      "2021-02-27": 452,
-      "2021-02-18": 376
+      "2021-02-27": 452
     }
   },
   {
@@ -774,18 +775,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "blog",
     "status": "down",
-    "uptime": "69.35%",
+    "uptime": "69.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.35%",
+    "uptimeYear": "69.28%",
     "time": 1219,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2022-02-17": 24,
+      "2022-02-18": 30,
+      "2022-02-17": 1440,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
@@ -900,8 +902,7 @@
       "2021-10-27": 93,
       "2021-08-30": 16,
       "2021-08-29": 20,
-      "2021-06-07": 105,
-      "2021-02-18": 376
+      "2021-06-07": 105
     }
   }
 ]
